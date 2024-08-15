@@ -1,0 +1,7 @@
+@media (min-width: 992px) {
+  /* Desktop screens */
+  .navbar .dropdown:hover > .dropdown-menu {
+    display: inline-block;
+    visibility: visible;
+  }
+}
